@@ -12,8 +12,8 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
-
-  PROVINCE: '广东',
+USE_PASSAGE: 'push-deer'
+  ROVINCE: '广东',
   CITY: '惠州',
 
   USERS: [
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'PDU25272T8447WkBVTiiCRAGhe3vrvipaGLQzqfug',
     }
   ],
 
